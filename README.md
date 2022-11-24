@@ -1,6 +1,4 @@
-# neoGCamp-markFour
- # markFour Assignment
----
+# neoGCamp-markFour and markFive assignment
 
 This is my version of the solution for the markFour and markFive assignment.
 
