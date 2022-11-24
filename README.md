@@ -10,7 +10,7 @@ This is my version of the solution for the markFour and markFive assignment.
 
 ---
 
-> [**Click here to see tanay's reference video**](https://neog.camp/guide/markFive)
+> [**Click here to see tanay's reference video**](https://neog.camp/guide/lessonThree)
 
 > Secret to complete this blog: Follow the steps closely as described in the video.
 >
